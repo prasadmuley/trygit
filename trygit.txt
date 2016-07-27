@@ -1,0 +1,8 @@
+Basics:
+
+1. git init
+2. git config
+3. git status
+4. git add
+5. git commit
+6. git rm
